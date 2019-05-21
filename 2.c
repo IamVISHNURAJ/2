@@ -1,0 +1,13 @@
+#include <stdio.h>
+int main()
+{
+    int n;
+    scanf("%d",&n);
+    if(number % 2 == 0)
+        printf("Even");
+    else if
+        printf("Odd");
+    else
+	printf("invaild");
+    return 0;
+}
